@@ -1,4 +1,4 @@
-# obl2chyper
+# obl2Neo4jCypher
 
 [obl2cypher](https://drive.google.com/file/d/1gtwlArg57U8J9rmWB_rakvKQf3jlUgFj/view?usp=sharing) is a Prolog library for converting OntoBroker .obl files into Neo4j Cypher.
 
